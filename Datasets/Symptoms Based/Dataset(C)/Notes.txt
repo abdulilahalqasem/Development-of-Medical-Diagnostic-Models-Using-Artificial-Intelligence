@@ -1,0 +1,9 @@
+* no missing data.
+
+* Class Distrputions:
+	corona_result
+	negative    260227
+	other         3892
+	positive     14729
+
+* All the None Values summed = 147,390

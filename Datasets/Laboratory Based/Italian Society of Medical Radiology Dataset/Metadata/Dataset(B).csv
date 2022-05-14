@@ -1,4 +1,4 @@
-﻿Number,Age,Gender,Fever,Dyspnea,Nasal ,Cough,PO2,CRP,Asthenia ,Leukopenia,Exposure to Covid-19 patients,High risk zone,Temp,Blood Test,RT-PCR,History,Decision label
+﻿Number,Age,Gender,Fever,Dyspnea,Nasal ,Cough,PO2,CRP,Asthenia,Leukopenia,Exposure to Covid-19 patients,High risk zone,Temp,Blood Test,RT-PCR,History,Decision label
 1,80,Male,Yes,Yes,Yes,*,*,*,*,*,*,*,*,*,*,*,COVID-19
 2,62,Male,Yes,*,Yes,Yes,97,0.75,Yes,*,*,*,*,*,*,*,COVID-19
 3,57,Male,Yes,*,Yes,Yes,*,*,*,*,Yes,*,*,*,*,*,COVID-19
